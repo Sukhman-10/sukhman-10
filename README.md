@@ -71,21 +71,7 @@ Here’s a glimpse of my work:
 ### 🏆 Let's Make Data Work for You!
 Whether you need **business insights, dashboards, or predictive models**, I can help turn your data into results.  
 Let’s collaborate and make **data-driven decisions** a reality! 🚀
-## Hi there 👋
 
-Welcome to my GitHub profile! I am **Sukhman Singh**, a professional **Data Analyst** currently working as a **sole trader / freelancer**. I help businesses unlock insights from their data to make smarter decisions and drive growth.  
-
----
-
-### 🔭 What I Do
-I specialize in **data analysis, data visualization, statistical analysis, and predictive modeling**. My goal is to turn complex datasets into actionable business insights.  
-
-- 📊 **Data Analysis:** Exploratory & inferential analysis to identify trends.  
-- 📈 **Data Visualization:** Interactive dashboards and charts using Tableau, Power BI, and Python.  
-- 🧠 **Predictive Modeling:** Forecasting, classification, and regression modeling for business decisions.  
-- ⚙️ **Automation & Reporting:** Python, Excel, SQL for automating reporting pipelines.  
-
----
 
 ### 🌱 Currently Learning
 - Advanced machine learning techniques for business analytics.  
