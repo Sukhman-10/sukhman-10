@@ -12,6 +12,6 @@ Advanced machine learning techniques & real-world data wrangling.
 
 ### 🤝 Let’s Collaborate
 I work with businesses and clients to **unlock insights, optimize processes, and drive growth**.  
-📫 Reach me:
+### 📫 Reach me:
 Mail: **sukhmansinghfb12@gmail.com**  
 Phone: **+44 7425362144**
