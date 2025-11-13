@@ -6,7 +6,7 @@ I’m **Sukhman Singh**, a professional **Data Analyst & Freelancer**. I help bu
 - 📈 Dashboards & Visualizations (Tableau, Power BI, Python)  
 - 🧠 Predictive Modeling & Forecasting  
 - ⚙️ Automation & SQL/Excel Solutions
-- 
+
 ### 🌱 Currently Learning
 Advanced machine learning techniques & real-world data wrangling.
 
